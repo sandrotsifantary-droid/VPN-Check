@@ -1,4 +1,4 @@
-# VPN-Check
+.github/workflows/dotnet.yml# VPN-Check
 Test if you are Behind a VPN Show green if you are and red if you are not
 
 ![alt text](./Resources/screen_green.png?raw=true)
